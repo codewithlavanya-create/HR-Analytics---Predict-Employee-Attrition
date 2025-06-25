@@ -112,18 +112,3 @@ This project demonstrates how HR teams can use machine learning and data analyti
 **Lavanya Sharma**  
 📅 *Date: 20 June 2025*  
 
----
-
-## 📎 Repository Structure
-
-📁 HR-Analytics---Predict-Employee-Attrition ├── 📂 data │   └── HR_data.csv ├── 📂 notebooks │   └── attrition_model.ipynb ├── 📂 visuals │   ├── attrition_by_dept.png │   ├── confusion_matrix.png │   └── shap_summary.png ├── 📂 dashboard │   └── power_bi_dashboard.pbix └── README.md
-
----
-
-## 🔗 Useful Links
-- [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
-- [Power BI](https://powerbi.microsoft.com/)
-- [Scikit-learn Decision Tree](https://scikit-learn.org/stable/modules/tree.html)
-
-
-
