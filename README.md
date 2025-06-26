@@ -110,5 +110,5 @@ This project demonstrates how HR teams can use machine learning and data analyti
 
 ## 👩‍💻 Prepared by:
 **Lavanya Sharma**  
-📅 *Date: 20 June 2025*  
+ 
 
